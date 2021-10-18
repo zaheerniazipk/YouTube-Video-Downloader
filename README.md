@@ -1,6 +1,6 @@
 # YouTube-Video-Downloader
 
-![This is a cover image](/assets/images/cover.png)
+![This is a cover image](https://github.com/zaheerniazipk/YouTube-Video-Downloader/blob/main/cover.png)
 
 # Pre-requisites:
 
