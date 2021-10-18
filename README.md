@@ -2,8 +2,8 @@
 
 # Pre-requisites:
 
-** Python
-** Pytube
+- Python
+- Pytube
 
 # Code Walkthrough:
 
