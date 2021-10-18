@@ -3,9 +3,8 @@
 ![This is a cover image](https://github.com/zaheerniazipk/YouTube-Video-Downloader/blob/main/cover.png)
 
 # Pre-requisites:
-
-- Python
-- Pytube
+` Python `
+` Pytube `
 
 # Code Walkthrough:
 
