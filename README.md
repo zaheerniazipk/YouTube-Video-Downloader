@@ -1,5 +1,7 @@
 # YouTube-Video-Downloader
 
+![This is a cover image](/assets/images/cover.png)
+
 # Pre-requisites:
 
 - Python
